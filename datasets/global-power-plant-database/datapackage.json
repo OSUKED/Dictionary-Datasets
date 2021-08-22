@@ -121,7 +121,7 @@
           },
           {
             "name": "wepp_id",
-            "type": "integer",
+            "type": "number",
             "format": "default",
             "title": "PLATTS-WEPP ID",
             "description": "The unique identifier used to refer to power plants in the PLATTS-WEBB dataset"
