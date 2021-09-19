@@ -1,0 +1,32 @@
+name: PowerDictData
+
+channels:
+  - conda-forge
+  
+dependencies:
+  - python>=3.7
+  - pandas
+  - matplotlib
+  - jupyterlab
+  - lxml
+  - html5lib
+  - beautifulsoup4
+  - seaborn
+  - mkdocs
+  - mkdocs-material
+  - twine
+  - typer
+  - tqdm
+  - dask
+  - jinja2
+  - pip
+  
+  - pip:
+      - -e .
+      - nbdev
+      - feautils
+      - frictionless
+      - mkdocs-material-extensions
+      - mkdocstrings
+      - configparser
+      - junix
