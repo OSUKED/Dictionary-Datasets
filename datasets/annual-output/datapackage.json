@@ -8,7 +8,7 @@
       "schema": {
         "fields": [
           {
-            "name": "NGC_BMU_ID",
+            "name": "ngc_bmu_id",
             "type": "string",
             "format": "default",
             "description": "The Balancing Mechanism Unit identifier used by the National Grid Company",
