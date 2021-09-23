@@ -26,7 +26,7 @@
             "type": "number",
             "format": "default",
             "title": "Capture Price (£/MWh)",
-            "description": "The average price weighted by output that would have been received by the balancing mechanisms unit if it had particpated fully in the day-ahead market. "
+            "description": "The average price weighted by output that would have been received by the balancing mechanisms unit if it had participated fully in the day-ahead market. "
           }
         ]
       }
@@ -38,7 +38,7 @@
   ],
   "name": "capture-prices",
   "title": "Power Plant Capture Prices",
-  "description": "This dataset reports the average weighted capture price that would have been received by BMU units in the day-ahead market. The price data used was sourced from Electric Insights",
+  "description": "This dataset reports the average price weighted by output that would have been received by the balancing mechanisms unit if it had participated fully in the day-ahead market. The price data used was sourced from Electric Insights",
   "licenses": [
     {
       "name": "CC-BY-4.0",
