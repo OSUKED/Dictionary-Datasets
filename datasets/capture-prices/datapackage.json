@@ -25,7 +25,7 @@
             "name": "capture_price",
             "type": "number",
             "format": "default",
-            "title": "Capture Price",
+            "title": "Capture Price (£/MWh)",
             "description": "The average price weighted by output that would have been received by the balancing mechanisms unit if it had particpated fully in the day-ahead market. "
           }
         ]
