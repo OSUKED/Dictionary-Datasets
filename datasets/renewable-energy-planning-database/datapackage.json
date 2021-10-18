@@ -51,14 +51,14 @@
           },
           {
             "name": "Storage Type",
-            "type": "any",
+            "type": "string",
             "format": "default",
             "title": "Storage Type",
             "description": "Describes whether the attached storage is co-located with RES/fossil-fuels or stand-alone"
           },
           {
             "name": "Storage Co-location REPD Ref ID",
-            "type": "any",
+            "type": "string",
             "format": "default",
             "title": "Storage Co-location REPD Ref ID",
             "description": "The (new) REPD ID associated with the storage unit attached to the site"
@@ -170,7 +170,7 @@
           },
           {
             "name": "Post Code",
-            "type": "any",
+            "type": "string",
             "format": "default",
             "title": "Post Code",
             "description": "Post code of the development site"
@@ -233,7 +233,7 @@
           },
           {
             "name": "Offshore Wind Round",
-            "type": "any",
+            "type": "string",
             "format": "default",
             "title": "Offshore Wind Round",
             "description": "Leasing round in which an offshore wind project was established"
