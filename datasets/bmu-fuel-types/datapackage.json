@@ -76,6 +76,7 @@
   "version": "1.0.0",
   "licenses": [
     {
+      "name": "Elexon Licence",
       "path": "https://www.elexon.co.uk/using-this-website/disclaimer-and-reservation-of-rights/"
     }
   ]
