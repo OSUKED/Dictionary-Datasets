@@ -8,10 +8,10 @@
       "schema": {
         "fields": [
           {
-            "name": "osuked_id",
+            "name": "dictionary_id",
             "type": "integer",
             "format": "default",
-            "title": "OSUKED ID",
+            "title": "Dictionary ID",
             "description": "The identifier used to refer to power plants in the Subak data cooperative"
           },
           {
@@ -32,10 +32,7 @@
       }
     }
   ],
-  "keywords": [
-    "power plants",
-    "location"
-  ],
+  "keywords": ["power plants", "location"],
   "version": "1.0.0",
   "name": "plant-locations",
   "title": "Power Plant Locations",

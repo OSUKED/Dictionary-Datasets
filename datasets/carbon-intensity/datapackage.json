@@ -8,11 +8,11 @@
       "schema": {
         "fields": [
           {
-            "name": "osuked_id",
+            "name": "dictionary_id",
             "type": "integer",
             "format": "default",
             "title": "Dictionary ID",
-            "description": "OSUKED ID"
+            "description": "Dictionary ID"
           },
           {
             "name": "year",
@@ -31,12 +31,7 @@
       }
     }
   ],
-  "keywords": [
-    "carbon intensity",
-    "co2",
-    "emissions",
-    "power station"
-  ],
+  "keywords": ["carbon intensity", "co2", "emissions", "power station"],
   "name": "carbon-intensity",
   "title": "Carbon Intensity",
   "description": "This dataset provides plant-level carbon intensities for GB power stations",
