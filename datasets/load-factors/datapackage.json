@@ -40,7 +40,7 @@
       }
     }
   ],
-  "title": "Load Factors",
+  "title": "BMU Utilisation Statistics",
   "name": "load-factors",
   "description": "This dataset contains load factors and full load hours at a BMU granularity level for GB power plants. Please note that the load factor value for 2021 is incomplete and was based on data up to April of that year.",
   "version": "1.0.0",

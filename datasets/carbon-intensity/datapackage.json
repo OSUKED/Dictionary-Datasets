@@ -34,7 +34,7 @@
   ],
   "keywords": ["carbon intensity", "co2", "emissions", "power station"],
   "name": "carbon-intensity",
-  "title": "Carbon Intensity",
+  "title": "Carbon Intensity Factors",
   "description": "This dataset provides plant-level carbon intensities for GB power stations",
   "version": "1.0.0",
   "contributors": [
