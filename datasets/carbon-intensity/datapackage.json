@@ -25,7 +25,8 @@
             "name": "carbon_intensity_gco2_per_kwh",
             "type": "number",
             "format": "default",
-            "title": "Carbon Intensity (gCO2/kWh)"
+            "title": "Carbon Intensity (gCO2/kWh)",
+            "rdfType": "http://openenergy-platform.org/ontology/oeo/OEO_00000148"
           }
         ]
       }
