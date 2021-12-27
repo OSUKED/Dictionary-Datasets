@@ -79,11 +79,11 @@
             "description": "The fuel type consumed by the specified BMU"
           },
           {
-            "name": comments
+            "name": "comments",
             "type": "string",
             "format": "default",
             "title": "Comments"
-          },
+          }
         ]
       }
     }
